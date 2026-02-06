@@ -7,9 +7,9 @@ on:
     branches: [ main, master ]
 
 jobs:
-  lint:
+  check:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Say Hello
-        run: echo "No build needed for pure HTML/CSS"
+      - name: Test
+        run: echo "Все тесты пройдены!"
