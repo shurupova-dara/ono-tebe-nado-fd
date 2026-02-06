@@ -146,9 +146,10 @@
 
 .aligned-text_right {
   text-align: right;
-  margin-top: -20px;      
+  margin-top: -20px;
   margin-left: 31px;
 }
+
 .cover__description {
   display: flex;
   position: relative;
@@ -205,7 +206,7 @@
   margin-left: 40px;
 }
 
-.lots__card-list{
+.lots__card-list {
   display: flex;
   flex-wrap: wrap;
   gap: 25px;
@@ -413,7 +414,7 @@
   text-underline-offset: 4px;
 
   }
-.footer__menu-link_active{
+.footer__menu-link_active {
   text-decoration: none;
 
   }
