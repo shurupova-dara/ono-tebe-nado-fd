@@ -336,6 +336,7 @@
     margin: 0 auto;
     padding: 0 50px;
     margin-top: 180px;
+    min-height: 180px;
 }
 
 .footer__address {
